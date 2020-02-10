@@ -1,0 +1,5 @@
+https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-windows-x64.exe
+https://download.oracle.com/otn/java/jdk/8u241-b07/1f5b5a70bf22433b84d0e960903adac8/jdk-8u241-windows-i586.exe
+
+
+https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/11.2/Apache-NetBeans-11.2-bin-windows-x64.exe
